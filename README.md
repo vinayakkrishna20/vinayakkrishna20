@@ -1,8 +1,8 @@
 <div align="center">
 
-#👋 Hi, I'm Vinayak Krishna
+# 🕸️ Hi there! I'm  Vinayak Krishna P
 
-###💻 Computer Science Engineering Student | Python Developer | AI Enthusiast
+### A Passionate Computer Science Student 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Development;Machine+Learning;Compiler+Design;DevOps+%26+Automation;Building+Scalable+Software" alt="Typing SVG" />
 
