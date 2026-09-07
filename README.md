@@ -43,45 +43,6 @@ hobbies:
   - "Exploring AI"
 ```
 
-Replace any values above if you'd like different personal details. The block follows the visual YAML-style layout from your provided image and will render as a code block on your profile README.
-
-🚀 About Me
-
-I'm a Computer Science Engineering undergraduate at Muthoot Institute of Technology and Science, focused on building practical software and exploring the intersection of backend engineering, machine learning, and systems design. I enjoy building end-to-end projects that combine ML and backend services.
-
-🎓 B.Tech in Computer Science Engineering — 2023–2027
-
-🧠 Strong foundation in Data Structures & Algorithms, OOP, DBMS, and Operating Systems
-
-⚙️ Interested in Backend Development, Machine Learning
-
-🔧 Experienced with Node.js, Flask, TensorFlow, PostgreSQL and REST APIs
-
-🌱 Always learning, experimenting, and turning ideas into working software
-
-🛠️ Featured Project
-
-🛣️ Rodo — Smart Road Quality Detection & Navigation System
-
-Flutter · Node.js · PostgreSQL · Google Maps API
-
-A full-stack navigation system designed around sensor-based road anomaly detection and machine-learning-based road quality prediction.
-
-🚧 Developed a full-stack system for detecting road anomalies using sensor data.
-
-🤖 Designed a backend service for ML-based road quality prediction.
-
-🗄️ Integrated PostgreSQL for efficient road-data storage and retrieval.
-
-🗺️ Integrated Google Maps API for route visualization and navigation.
-
-⚡ Improved backend response latency by approximately 20%.
-
-🔀 Used Git for version control throughout development.
-
-💻 Tech Stack
-
-Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,java" alt="Programming Languages"/>
@@ -110,34 +71,6 @@ Tools & Workflow
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
 </p>
-
-🧩 Core Computer Science
-
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Compiler Design
-
-📜 Certifications & Activities
-
-🐍 NPTEL — Data Science Using Python
-
-🤖 ROS 2 Fundamentals
-
-✨ Generative AI Workshop — Intellipaat
-
-🏎️ GKDC — Go-Kart Design Challenge
-
-📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-</div>
 
 🎯 Currently Interested In
 
