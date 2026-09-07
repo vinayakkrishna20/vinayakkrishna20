@@ -4,7 +4,7 @@
 
 ### A Passionate Computer Science Student 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Development;Machine+Learning;Compiler+Design;DevOps+%26+Automation;Building+Scalable+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Development;Machine+Learning;Compiler+Design;Dev[...]"/>
 
 <p>
   <a href="mailto:vinayak2004krishna@gmail.com">
@@ -22,9 +22,32 @@
 
 </div>
 
+__ About Me __
+
+---
+
+```yaml
+name: Vinayak Krishna P
+located_in: India
+education: "B.Tech in Computer Science and Engineering"
+institution: "Muthoot Institute of Technology and Science"
+graduation_year: 2027
+fields_of_interest:
+  - "Backend Development"
+  - "Machine Learning"
+  - "Compiler Design"
+  - "DevOps"
+hobbies:
+  - "Coding"
+  - "Reading"
+  - "Exploring AI"
+```
+
+Replace any values above if you'd like different personal details. The block follows the visual YAML-style layout from your provided image and will render as a code block on your profile README.
+
 🚀 About Me
 
-I'm a Computer Science Engineering undergraduate at Muthoot Institute of Technology and Science, focused on building practical software and exploring the intersection of backend engineering, machine learning, compiler design, and automation.
+I'm a Computer Science Engineering undergraduate at Muthoot Institute of Technology and Science, focused on building practical software and exploring the intersection of backend engineering, machine learning, and systems design. I enjoy building end-to-end projects that combine ML and backend services.
 
 🎓 B.Tech in Computer Science Engineering — 2023–2027
 
