@@ -75,15 +75,16 @@ Tools & Workflow
 🎯 Currently Interested In
 
 focus:
-  - Python Engineering
-  - Machine Learning
-  - DevOps & Automation
-  - Scalable Software Systems
+  - Algorithms
+  - Data Structures
+  - Web Development
+  - Systems Programming
 
 learning:
-  - TensorFlow
+  - Advanced Algorithms
+  - System Design & Scalability
   - REST API Development
-  - Cloud & CI/CD Concepts
+  - Low-level Systems Programming
 
 <div align="center">
 
