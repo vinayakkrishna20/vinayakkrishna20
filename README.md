@@ -32,11 +32,11 @@ located_in: India
 education: "B.Tech in Computer Science and Engineering"
 institution: "Muthoot Institute of Technology and Science"
 graduation_year: 2027
-fields_of_interest:
-  - "Backend Development"
-  - "Machine Learning"
-  - "Compiler Design"
-  - "DevOps"
+coding_areas:
+  - "Algorithms"
+  - "Data Structures"
+  - "Web Development"
+  - "Systems Programming"
 hobbies:
   - "Coding"
   - "Reading"
@@ -51,13 +51,13 @@ hobbies:
 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" alt="Web and Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Web and Backend"/>
 </p>
 
 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=python" alt="AI and ML"/>
 </p>
 
 Databases
